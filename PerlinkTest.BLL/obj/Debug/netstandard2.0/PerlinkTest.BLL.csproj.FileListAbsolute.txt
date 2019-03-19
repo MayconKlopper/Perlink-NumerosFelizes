@@ -1,0 +1,9 @@
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\bin\Debug\netstandard2.0\PerlinkTest.BLL.deps.json
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\bin\Debug\netstandard2.0\PerlinkTest.BLL.dll
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\bin\Debug\netstandard2.0\PerlinkTest.BLL.pdb
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.csprojAssemblyReference.cache
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.csproj.CoreCompileInputs.cache
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.AssemblyInfoInputs.cache
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.AssemblyInfo.cs
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.dll
+C:\Projetos\PerLinkTest\PerlinkTest.BLL\obj\Debug\netstandard2.0\PerlinkTest.BLL.pdb

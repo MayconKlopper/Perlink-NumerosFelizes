@@ -1,0 +1,14 @@
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.Presentation.deps.json
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.Presentation.runtimeconfig.json
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.Presentation.runtimeconfig.dev.json
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.Presentation.dll
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.Presentation.pdb
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.BLL.dll
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\bin\Debug\netcoreapp2.1\PerlinkTest.BLL.pdb
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.csprojAssemblyReference.cache
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.csproj.CoreCompileInputs.cache
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.AssemblyInfoInputs.cache
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.AssemblyInfo.cs
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.csproj.CopyComplete
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.dll
+C:\Projetos\PerLinkTest\PerlinkTest.Presentation\obj\Debug\netcoreapp2.1\PerlinkTest.Presentation.pdb
